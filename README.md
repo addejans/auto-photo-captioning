@@ -62,7 +62,7 @@ The last layer of a deep Convolutional Neural Network (CNN) trained to classify 
  - <b>Alternate Measure.</b> Explore alternate performance measures beside BLEU such as
     ROGUE. Compare scores for the same descriptions to develop an intuition for how the
     measures differ in practice.
- - <b>More training data.</b> This experiment uses only Flickr8k; try experiments with this system on several openly published datasets, including Pascal, Flickr8k, Flickr30k and SBU, show how robust the qualitative results are. (see [this](https://arxiv.org/abs/1411.4555) paper)
+ - <b>More training data.</b> This experiment uses only Flickr8k; try experiments with this system on several openly published datasets, including Pascal, Flickr8k, Flickr30k and SBU [and [MS COCO](https://github.com/ntrang086/image_captioning)], show how robust the qualitative results are. (see [this](https://arxiv.org/abs/1411.4555) paper)
     
     
 
